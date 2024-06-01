@@ -1,0 +1,56 @@
+.contact-1{
+    text-align: center;
+    margin-top: 115px;
+}
+
+.contact-1 h2{
+    text-transform: uppercase;
+}
+
+.contact-2{
+    background-color: rgba(253, 111, 0, 0.1);
+}
+
+.contact-2i h1{
+    margin-left: 105px;
+    margin-top: 58px;
+}
+
+.contact-2i{
+    text-transform: uppercase;
+}
+
+.contact-2ii{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-2ii-a{
+    border-bottom: 1px solid white;
+}
+
+.contact-2ii-b hr{
+    width: 376px;
+}
+
+.contact-2ii-c{
+    border-bottom: 1px solid white;
+    margin-left: 105px;
+    margin-right: 105px;
+}
+
+.contact-2ii-d{
+    display: flex;
+    margin-left: 105px;
+}
+
+.contact-2ii-d img{
+    height: 10px;
+}
+
+.contact-2ii-e button{
+    background-color: var(--primary-color);
+    padding: 15px;
+    color: var(--primary-font-color);
+    margin-left: 105px;
+}

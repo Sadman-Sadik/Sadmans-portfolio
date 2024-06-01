@@ -1,0 +1,44 @@
+.about-me-dsc p{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.experience{
+    color: var(--primary-color);
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ex{
+    text-align: right;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.about-me-experience .exp h1{
+    font-size: 37px;
+}
+.experi{
+    margin-top: 90px;
+}
+.experience-items{
+    background-image:linear-gradient(270.16deg, rgba(255, 177, 71, 0.1) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+    display: flex;
+    justify-content: space-around;
+}
+
+.spent-time{
+    display: flex;
+    justify-content: space-between;
+    gap: 85px;
+}
+
+.spent-bio{
+    border-bottom: 1px solid white;
+}
+
+.title{
+    text-transform: uppercase;
+}
